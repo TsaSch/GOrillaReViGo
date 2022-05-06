@@ -1,0 +1,8 @@
+"GO.Term";"Description";"P.value";"FDR.q.value";"Enrichment";"N";"B";"n";"b";"Genes"
+"GO:0002225";"positive regulation of antimicrobial peptide production";0,000267;1;70,22;12851;3;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:0002784";"regulation of antimicrobial peptide production";0,000267;1;70,22;12851;3;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:0002760";"positive regulation of antimicrobial humoral response";0,000267;1;70,22;12851;3;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:0097400";"interleukin-17-mediated signaling pathway";0,00053;1;52,67;12851;4;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:0002759";"regulation of antimicrobial humoral response";0,000877;1;42,13;12851;5;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:2000340";"positive regulation of chemokine (C-X-C motif) ligand 1 production";0,000877;1;42,13;12851;5;122;2;"[Il17f  -  interleukin 17f, Il17a  -  interleukin 17a]"
+"GO:0050951";"sensory perception of temperature stimulus";0,000877;1;42,13;12851;5;122;2;"[Trpa1  -  transient receptor potential cation channel, subfamily a, member 1, Oprk1  -  opioid receptor, kappa 1]"
