@@ -2,7 +2,7 @@ library("RSelenium")
 
 # get path for working directory and downloads
 path = str_replace_all(getwd(), "/", "\\\\")
-downloadpath = "C:\\Users\\schmidta\\Downloads"
+downloadpath = "C:\\Downloads"
 
 # project name
 filename = "test"
